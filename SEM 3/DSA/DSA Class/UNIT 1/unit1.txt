@@ -1,0 +1,23 @@
+ADT -> Abstract Data Type: represent data and operations from user's pov irrespective of implementation
+
+Linear DS -> Stack, Queue, LL, Array                  #LL is linkedlist
+Non Linear DS -> Tree, Graph
+
+Stack Memory Allocation
+- allocated by compiler
+- allocated memory can't be altered during runtime
+- Can't be deleted but can be overwritten
+- Leads to over utilization or under utilization of allocated memory
+
+Dynamic Memory Allocation
+- used to obtain and release memory during execution
+- operates at low-level
+- malloc(), calloc(), realloc() are some functions used to perform these functions
+
+CREATING
+INSERTING
+TRANSVERSAL
+DELETEING
+REVERSAL
+SEARCHING
+CONCATENATION
