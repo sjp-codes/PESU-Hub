@@ -18,6 +18,16 @@ CREATING
 INSERTING
 TRANSVERSAL
 DELETEING
-REVERSAL
-SEARCHING
-CONCATENATION
+REVERSAL*****
+SEARCHING 
+
+insertion:
+CONCATENATION****
+COUNTING
+SUM
+
+deletion:
+delete a given value 
+alternate nodes *****
+all nodes - deletefront with while
+
