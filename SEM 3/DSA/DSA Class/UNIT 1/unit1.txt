@@ -31,3 +31,8 @@ delete a given value
 alternate nodes *****
 all nodes - deletefront with while
 
+DLL:
+reverse
+node pairs with a given SUM
+insert node after a node with given value
+remove duplicate nodes
